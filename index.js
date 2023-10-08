@@ -18,15 +18,15 @@ function calculatespeed (speedLimit){
 
         // if it is more than 12 point to output license suspended
 
-if (demeritPoints > maxDemerit) {
+    if (demeritPoints > maxDemerit) {
     console.log("License suspended");
    
-} else {
+    } else {
     console.log("Points: " + demeritPoints);
     
-}
-}
-}
+    }   
+    }
+    }
 
 
 calculatespeed(speedCar)
