@@ -1,6 +1,6 @@
 # Speed Detector
 
-Javascript Console Application That detects car's speed, OCTOBER 08/2023
+Javascript Console Application That Detects Car's Speed, OCTOBER 08/2023
 
 By Maurine Wambui
 
@@ -12,9 +12,9 @@ This is Javascript Console Application allows car's speed as input, calculates t
 
 <ul>
 <li>Use node index.js to input and review the results, then enter.</li>
-<li>A "What grade did the student get?" popup will display.</li>
-<li>Input the student's mark, For example 78, then enter.</li>
-<li>The output will be a "B" because 78 is within that range.</li>
+<li>A "What is the car speed?" popup will display.</li>
+<li>Input the car's speed, For example 60, then enter.</li>
+<li>The output will be  "Ok" because it is within the required speed but from 71 it will start displaying the demerit points and after the 12th point it will show that the license has expired </li>
 </ul>
 
 # Requirements
@@ -29,7 +29,7 @@ This is Javascript Console Application allows car's speed as input, calculates t
 <ul>
 <li>Clone this repository using
 
-  git clone git@github.com:maurineA/studentGradeGenerator.git
+  git clone git@github.com:maurineA/speed-detector.git
 or by downloading a ZIP file of the code.</li>
 <li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
 <li>Navigate to the project folder on your bash terminal.</li>
